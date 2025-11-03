@@ -237,6 +237,6 @@ npm install chromedriver --save-dev
 
 Este projeto é de código aberto e está disponível sob a licença ISC.
 
-## 👤 Autor
+## 👤 Autora
 
 Desenvolvido por Natalia Rossi como parte do desafio técnico de QA Automation.
