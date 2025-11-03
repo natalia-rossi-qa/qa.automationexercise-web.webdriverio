@@ -65,7 +65,7 @@ git --version
 
 1. **Clone o repositório:**
 ```bash
-git clone https://github.com/seu-usuario/qa.automationexercise-web.webdriverio.git
+git clone https://github.com/natalia-rossi-qa/qa.automationexercise-web.webdriverio.git
 cd qa.automationexercise-web.webdriverio
 ```
 
